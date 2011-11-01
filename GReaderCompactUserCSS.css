@@ -1,3 +1,4 @@
+
 /*****************
 Alexandru Brie @ Cognitive Bits Software
 (twitter)/@alexbrie
@@ -19,30 +20,38 @@ max-height:30px !important;
 overflow:hidden !important;
 border:none !important;
 }
+#viewer-header {
+max-height:40px !important;
+height: 40px !important;
+}
+#title-and-status-holder {
+padding: 0 !important;
+}
 #search {
 padding: 0 !important;
 margin-left: 220px !important;
-}
-#nav {
-float: left;
-width: 210px !important;
-}
-#viewer-header {
-max-height:50px !important;
 }
 #lhn-add-subscription-section {
 max-height:50px !important;
 width: 210px !important;
 border:none !important;
 }
-.entry .entry-body, .entry .entry-title, .entry .entry-likers {
-max-width: 950px !important;
+#nav {
+float: left;
+width: 210px !important;
 }
-
 #chrome {
 margin-left: 220px !important;
 border-left:1px solid #ddd;
 }
+.entry .entry-body, .entry .entry-title, .entry .entry-likers {
+max-width: 950px !important;
+}
+#entries.list .entry .collapsed {
+padding: 2px 0 !important;
+line-height: 2.5ex !important;
+}
+
 
 /**********************
 Fragments from  Google Reader Demarginfier

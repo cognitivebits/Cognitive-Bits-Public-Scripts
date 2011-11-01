@@ -12,6 +12,6 @@ Install
 ---
 1. Install UserCSS extension from http://code.grid.in.th/ 
 2. right click on any web page, chose ManageUserCSS
-3. paste the following CSS in the Styles field
+3. paste the provided CSS in the Styles field
 4. paste `http://*.google.com/reader*` in the URLs field
 5. enter GoogleReader in the name field (or whatever else you chose)

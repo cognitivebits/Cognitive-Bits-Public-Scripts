@@ -1,4 +1,4 @@
-By
+Author
 ---
 Alexandru Brie @ Cognitive Bits Software http://www.cognitivebits.com
 [@alexbrie](http://twitter.com/alexbrie)
